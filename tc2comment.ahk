@@ -1,7 +1,7 @@
 ﻿;
 ; AHK script to comment/uncomment selection with a shortcut key especially in TwinCAT 2.
 ; Uses the clipboard to temporarily copy selected text, modify it, paste it, and restore
-; the old clipboard contents automatically. -SalTu 7/2018
+; the old clipboard contents automatically.
 ;
 
 ;Specify a shortcut key, default ctrl + <
